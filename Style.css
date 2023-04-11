@@ -105,7 +105,7 @@ body{
     }
 
     .video{
-        height: 492px;
+        padding-bottom:60%;
         background:url(YoutubeAssets/Applewatch.jpeg);
         background-size: cover;
     }
